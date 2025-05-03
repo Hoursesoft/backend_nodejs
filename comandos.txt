@@ -16,6 +16,8 @@ npm install -g nodemon
 // lo que debe contener el .gitignore es una línea con node_modules
  
 
+
+
 ###################
 --códigos de respuesta 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
