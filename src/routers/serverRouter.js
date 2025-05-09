@@ -1,6 +1,8 @@
 const express = require('express');
 const serverController = require("../controllers/serverController");
 
+
+//Rutas o endpoints
 class ServerRouter{
     constructor(){
         this.router = express.Router();

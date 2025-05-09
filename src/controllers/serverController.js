@@ -1,5 +1,7 @@
 const person = require('../models/person');
 
+
+// Controlador 
 let users = [
     { id: 1, nombre: "Geremias", apellido: "Beltran" },
     { id: 2, nombre: "Isadora", apellido: "Montiel" },
